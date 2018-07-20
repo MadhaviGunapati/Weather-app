@@ -1,1 +1,1 @@
-wed: node server.js
+wed: node app.js
